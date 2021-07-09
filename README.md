@@ -1,4 +1,4 @@
-#Portfólio | Técnico Desinvolvimento de Sistemas 
+#Portfólio - Técnico Desinvolvimento de Sistemas 
 
 
 <b>CLARISSA GONÇALVES DE ASSUNÇÃO</b>
@@ -27,6 +27,8 @@ Excel Básico - SENAC
 Mundo do Trabalho - SENAI
 
 Assistente adminitrativo - IDES
+
+Assistente administrativo - SENAI
 
 
 <b>Experiência Profissional</b>
