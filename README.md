@@ -2,6 +2,11 @@
 
 #Portfólio - Técnico Desinvolvimento de Sistemas 
 
+##Lógica Computacional
+* [Vetores.java](LogiaComputacional/vetores.java.sh)
+* [Idade.java](LogiaComputacional/idade.java)
+* [Juros.java](LogiaComputacional/juros.java) 
+
 
 <b>CLARISSA GONÇALVES DE ASSUNÇÃO</b>
 
@@ -9,7 +14,6 @@ clarissa.g.a@hotmail.com
   
   
 Celular: (48) 9 9670 8200
-* [Exemplo](Portf-lio---Clarissa-2B-main.zip)
 
 
 <b>Formação</b>
