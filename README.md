@@ -1,3 +1,5 @@
+
+
 #Portfólio - Técnico Desinvolvimento de Sistemas 
 
 
@@ -7,7 +9,8 @@ clarissa.g.a@hotmail.com
   
   
 Celular: (48) 9 9670 8200
-  
+* [Exemplo](Portf-lio---Clarissa-2B-main.zip)
+
 
 <b>Formação</b>
 
@@ -53,6 +56,8 @@ Empatia
 
 
 Criativa
+
+
 
  
 Proativa 
