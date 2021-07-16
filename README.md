@@ -8,7 +8,8 @@
 * [Juros.java](LogiaComputacional/juros.java) 
 
 ##Fundamentos TI
-
+* [arq_dir.sh](Fundamentos_TI/ arq_dir.sh)
+* [user.sh](Fundamentos_TI/ lista_users.sh.txt)
 
 <b>CLARISSA GONÇALVES DE ASSUNÇÃO</b>
 
