@@ -1,13 +1,13 @@
 
 
-#Portfólio - Técnico Desinvolvimento de Sistemas 
+# Portfólio - Técnico Desinvolvimento de Sistemas 
 
-##Lógica Computacional
+## Lógica Computacional
 * [Vetores.java](LogiaComputacional/vetores.java.sh)
 * [Idade.java](LogiaComputacional/idade.java)
 * [Juros.java](LogiaComputacional/juros.java) 
 
-##Fundamentos TI
+## Fundamentos TI
 * [arq_dir.sh](Fundamentos_TI/arq_dir.sh)
 * [user.sh](Fundamentos_TI/lista_users.sh.txt)
 
