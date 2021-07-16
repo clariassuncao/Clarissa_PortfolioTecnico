@@ -1,6 +1,8 @@
 
 
-# Portfólio - Técnico Desinvolvimento de Sistemas 
+# Portfólio - Técnico Desinvolvimento de Sistemas
+
+Códigos feitos em aula:
 
 ## Lógica Computacional
 * [Vetores.java](LogiaComputacional/vetores.java.sh)
@@ -11,7 +13,7 @@
 * [arq_dir.sh](Fundamentos_TI/arq_dir.sh)
 * [user.sh](Fundamentos_TI/lista_users.sh.txt)
 
-<b>CLARISSA GONÇALVES DE ASSUNÇÃO</b>
+# <b>CLARISSA GONÇALVES DE ASSUNÇÃO</b>
 
 clarissa.g.a@hotmail.com 
   
@@ -19,7 +21,7 @@ clarissa.g.a@hotmail.com
 Celular: (48) 9 9670 8200
 
 
-<b>Formação</b>
+## <b>Formação</b>
 
 
 Cursando o 2° ano do Ensino Médio
@@ -28,7 +30,7 @@ Cursando o 2° ano do Ensino Médio
 Cursando Técnico em Desinvolvimentos de Sistemas 
 
 
-<b>Cursos Complementares</b>
+## <b>Cursos Complementares</b>
 
 _____________________________________________________________________________________________________________________________
 
@@ -41,7 +43,7 @@ Assistente adminitrativo - IDES
 Assistente administrativo - SENAI
 
 
-<b>Experiência Profissional</b>
+## <b>Experiência Profissional</b>
 
 _____________________________________________________________________________________________________________________________
 
@@ -53,7 +55,7 @@ Jovem aprendiz RH - Dental Speed
 Jovem aprendiz SESMT - Intelbras 
 
 
-<b>Qualidades</b>
+## <b>Qualidades</b>
 
 _____________________________________________________________________________________________________________________________
 
