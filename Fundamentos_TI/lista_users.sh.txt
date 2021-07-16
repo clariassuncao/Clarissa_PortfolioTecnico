@@ -1,0 +1,4 @@
+#!/bin/bash 
+echo "Esses são todos os usuários existentes:"
+users=$(cut -d" " -f1 /etc/passwd)
+echo "$lista_usuarios"
