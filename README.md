@@ -14,6 +14,8 @@ Códigos feitos em aula:
 * [user.sh](Fundamentos_TI/lista_users.sh.txt)
 * [estrutura_rep.sh](Fundamentos_TI/estrutura_rep.sh)
 * [estrurura_cond.sh](Fundamentos_TI/estrutura_cond.sh)
+* [lista_user.sh](Fundamentos_TI/AvaliacaoPratica/lista_user.sh)
+* [user_humano.sh](Fundamentos_TI/AvaliacaoPratica/user_humano.sh)
 
 # <b>CLARISSA GONÇALVES DE ASSUNÇÃO</b>
 
