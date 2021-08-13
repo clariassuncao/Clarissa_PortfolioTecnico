@@ -12,6 +12,8 @@ Códigos feitos em aula:
 ## Fundamentos TI
 * [arq_dir.sh](Fundamentos_TI/arq_dir.sh)
 * [user.sh](Fundamentos_TI/lista_users.sh.txt)
+* [estrutura_rep.sh](Fundamentos_TI/estrutura_rep.sh)
+* [estrurura_cond.sh](Fundamentos_TI/estrutura_cond.sh)
 
 # <b>CLARISSA GONÇALVES DE ASSUNÇÃO</b>
 
