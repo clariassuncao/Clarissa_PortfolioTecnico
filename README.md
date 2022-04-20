@@ -60,5 +60,16 @@
 
 ## Android Studio
 * [acesso_camera.java](Android_Studio/acesso_camera.java)
+* [geo_espacial.java](Android_Studio/geoEspacial.java)
+* [ramdom.java](Android_Studio/ramdom.java) 
 
+## Banco de Dados
+* [loja_roupas.sql](BancoDados/loja_roupas.sql)
+* [rede_cinemas.sql](BancoDados/rede_cinemas.sql)
+* [teste_funcoes.sql](BancoDados/teste_funcoes.sql)
+* [zoologico.sql](BancoDados/zoologico.sql)
+
+## Modelagem de Sistemas
+* [codigos_Banda_Restaurante](ModelagemSistemas/Banda_Restaurante)
+* [codigos_Presidio](ModelagemSistemas/Presidio)
 
