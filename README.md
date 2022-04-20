@@ -5,7 +5,7 @@
 >
 > Currículo com dados pessoais;
 >
-> Códigos feitos em aula com linguagem Java e Shell Script;
+> Códigos feitos em aula com linguagem Java e SQL;
  
 # Clarissa Gonçalves de Assunção
 
@@ -15,7 +15,7 @@
 
 ## Formação
 
-- Cursando o 2° ano do Ensino Médio
+- Cursando o 3° ano do Ensino Médio
 - Cursando Técnico em Desinvolvimentos de Sistemas
 
 ## Cursos Complementares
@@ -26,12 +26,14 @@
 - Assistente administrativo - SENAI
 - Comunicação autêntica - Intelbras 
 - Inteligência emocional - Intelbras
+- Assistente de logística - SENAI
 
 ## Experiência Profissional
 
 - Venda de docinhos (autônoma)
 - Jovem aprendiz RH - Dental Speed
 - Jovem aprendiz SESMT - Intelbras
+- Jovem aprndiz RH - V8 Brasil
 
 ## Qualidades
 
