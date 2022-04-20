@@ -1,0 +1,29 @@
+public class Agenda{
+  private Estabelecimento estabelecimento;
+  private Bandas bandas;
+  private Artista artista;
+  private int datas_disponiveis_estabe;
+  private int datas_disponiveis_banda;
+
+  public Agenda(Estabelecimento estabelecimento, 
+ Bandas bandas, Artista artista, int 
+ datas_disponiveis_estabe, int 
+ datas_disponiveis_banda){
+    
+ }
+
+  public boolean notificarBanda (Bandas bandas){
+    return true;
+  }
+  public boolean notificarEstabelecimento 
+ (Estabelecimento estabelecimento){
+    return false;
+  }
+  public boolean agendarShow (Bandas bandas, Artista artista, Estabelecimento estabelecimento){
+    return true;
+  }
+  public boolean cancelarAgenda(Bandas bandas, Artista artista, Estabelecimento estabelecimento){
+    return true;
+  }
+  
+}
