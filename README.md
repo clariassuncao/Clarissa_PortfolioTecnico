@@ -5,7 +5,7 @@
 >
 > Currículo com dados pessoais;
 >
-> Códigos feitos em aula com linguagem Java e SQL;
+> Códigos feitos em aula com linguagem Java, SQL e Shell Script;
  
 # Clarissa Gonçalves de Assunção
 
