@@ -58,4 +58,7 @@
 * [lista_user.sh](Fundamentos_TI/AvaliacaoPratica/lista_user.sh)
 * [user_humano.sh](Fundamentos_TI/AvaliacaoPratica/user_humano.sh)
 
+## Android Studio
+* [acesso_camera.java](Android_Studio/acesso_camera.java)
+
 
