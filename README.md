@@ -59,17 +59,11 @@
 * [user_humano.sh](Fundamentos_TI/AvaliacaoPratica/user_humano.sh)
 
 ## Android Studio
-* [acesso_camera.java](Android_Studio/acesso_camera.java)
-* [geo_espacial.java](Android_Studio/geoEspacial.java)
-* [ramdom.java](Android_Studio/ramdom.java) 
+* [geo_espacial.java](Android_Studio/geoEspacial.java) - Código escolhido pois aprendi bastante enquanto o realizava.
 
 ## Banco de Dados
-* [loja_roupas.sql](BancoDados/loja_roupas.sql)
-* [rede_cinemas.sql](BancoDados/rede_cinemas.sql)
-* [teste_funcoes.sql](BancoDados/teste_funcoes.sql)
-* [zoologico.sql](BancoDados/zoologico.sql)
+* [zoologico.sql](BancoDados/zoologico.sql) - Escolhi colocar essa atvidade pois foi bem complexa.
 
 ## Modelagem de Sistemas
-* [codigos_Banda_Restaurante](ModelagemSistemas/Banda_Restaurante)
-* [codigos_Presidio](ModelagemSistemas/Presidio)
+* [codigos_Banda_Restaurante](ModelagemSistemas/Banda_Restaurante) - Código feito em prova.
 
