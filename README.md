@@ -60,11 +60,13 @@
 
 ## Android Studio
 * [geo_espacial.java](Android_Studio/geoEspacial.java) - Código escolhido pois aprendi bastante enquanto o realizava.
-* [UnSmoke](Android_Studio/UnSmoke)
+* [UnSmoke](Android_Studio/UnSmoke) - Código feito em grupo com o objetivo de registrar dados de fumo
 
 ## Banco de Dados
 * [zoologico.sql](BancoDados/zoologico.sql) - Escolhi colocar essa atvidade pois foi bem complexa.
+* [EstoCar](BancoDados/EstoCar) - Colocamos em prática nosso conhecimento em conexão com BD
 
 ## Modelagem de Sistemas
 * [codigos_Banda_Restaurante](ModelagemSistemas/Banda_Restaurante) - Código feito em prova.
+* [TesteVocacional](ModelagemSistemas/TesteVocacional) - Código feito em grupo unificando todas as matérias
 
